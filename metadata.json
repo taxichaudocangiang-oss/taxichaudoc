@@ -1,0 +1,6 @@
+{
+  "name": "Taxi Châu Đốc - 0879.999.646",
+  "description": "Dịch vụ Taxi Châu Đốc An Giang đón nhanh 24/7, xe 4 chỗ và 7 chỗ đời mới giá rẻ, đưa đón Miếu Bà Chúa Xứ Núi Sam, Rừng Tràm Trà Sư, sân bay và liên tỉnh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
